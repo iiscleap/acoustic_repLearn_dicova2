@@ -1,0 +1,6 @@
+[default]
+num_layers = 2
+lstm_units = 64
+dropout_l = 0.2
+dropout = 0.2
+linear_units = 16
